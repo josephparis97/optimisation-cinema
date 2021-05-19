@@ -17,7 +17,7 @@ public class main {
 	private static final Date fin=new Date(2021, 05, 24, 22, 00);
 	
 	
-	//"08:30:00"
+	//"08:30:00 joseph"
 	//"yyyy-MM-dd HH:mm:ss"
 	public static void main(String[] args) {
 		
